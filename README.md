@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wireznak/FirstPipeline/_apis/build/status/wireznak.pipelines-java?branchName=master)](https://dev.azure.com/wireznak/FirstPipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
